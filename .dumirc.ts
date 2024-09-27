@@ -9,6 +9,7 @@ export default defineConfig({
       github: 'https://github.com/java/JAVA',
       yuque: 'https://www.yuque.com/yuqueyonghupqqdjr/gre6wb',
     },
+    nprogress: true,
     siteToken: {
       // headerHeight: 64,
       footerHeight: 100,
@@ -17,9 +18,14 @@ export default defineConfig({
       // contentMaxWidth: 1452,
       // demoInheritSiteTheme: false, // 默认的 demo 主题不会跟随网站主题变化
     },
+
   },
   logo: 'icon.svg',
   base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
-
+  cssMinifier: 'esbuild',
+  cssMinifierOptions: {
+    minifyWhitespace: true,
+    minifySyntax: true,
+  },
 });

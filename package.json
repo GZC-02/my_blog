@@ -20,6 +20,12 @@
       "prettier --write --no-error-on-unmatched-pattern"
     ]
   },
+  "dependencies": {
+    "@giscus/react": "^3.0.0",
+    "antd": "^5.21.1",
+    "react": "^18.3.1",
+    "react-layout-kit": "^1.9.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",

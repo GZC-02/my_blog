@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772deb27-1af2-4a76-83b0-db1b2dd8ecbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/utils/repxToTransfer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/config/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/Commit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dumi/theme/slots/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/.dumi/theme/slots/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dumirc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.dumirc.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Java/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Java/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/sources/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/sources/guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +55,13 @@
       <recent name="E:\my_blog\docs\Java\base" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my_blog\public" />
       <recent name="E:\my_blog\docs\guide" />
       <recent name="E:\my_blog\sources" />
       <recent name="E:\my_blog\docs\Java" />
-      <recent name="E:\my_blog\public" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -88,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -110,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727406396405</updated>
       <workItem from="1727406397690" duration="2935000" />
-      <workItem from="1727421647985" duration="3241000" />
+      <workItem from="1727421647985" duration="10589000" />
     </task>
     <servers />
   </component>

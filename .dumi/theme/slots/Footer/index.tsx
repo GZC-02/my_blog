@@ -1,4 +1,4 @@
-//.dumi/theme/slots/Footer/index.tsx
+//.dumi/theme/slots/Footer/index.jsx
 
 import { Footer } from 'dumi-theme-antd-style';
 
