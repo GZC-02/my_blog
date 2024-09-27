@@ -26,7 +26,7 @@ jobs:
       # 打包代码
      - name: Build Project
        run: |
-         npm install
+         set NODE_OPTIONS=--openssl-legacy-provider && npm install
          set NODE_OPTIONS=--openssl-legacy-provider && npm run build
 
       # 部署到github
