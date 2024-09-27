@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'my_blog'; // 项目名
+const repo: string = 'my_blog'; // 项目名
 
 export default defineConfig({
   themeConfig: {
