@@ -10,12 +10,12 @@ export default defineConfig({
       yuque: 'https://www.yuque.com/yuqueyonghupqqdjr/gre6wb',
     },
     siteToken: {
-      headerHeight: 64,
-      footerHeight: 300,
-      sidebarWidth: 240,
-      tocWidth: 176,
-      contentMaxWidth: 1152,
-      demoInheritSiteTheme: false, // 默认的 demo 主题不会跟随网站主题变化
+      // headerHeight: 64,
+      footerHeight: 100,
+      // sidebarWidth: 200,
+      // tocWidth: 136,
+      // contentMaxWidth: 1452,
+      // demoInheritSiteTheme: false, // 默认的 demo 主题不会跟随网站主题变化
     },
   },
   logo: 'icon.svg',

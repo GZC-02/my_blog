@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772deb27-1af2-4a76-83b0-db1b2dd8ecbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dumi/theme/slots/Footer/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Java/OPP/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Java/base/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/sources/guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dumirc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.dumirc.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Java/OPP/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Java/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Java/base/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,8 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\my_blog\docs\guide" />
+      <recent name="E:\my_blog\sources" />
+      <recent name="E:\my_blog\docs\Java" />
       <recent name="E:\my_blog\public" />
     </key>
   </component>
@@ -114,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727406396405</updated>
       <workItem from="1727406397690" duration="2935000" />
+      <workItem from="1727421647985" duration="176000" />
     </task>
     <servers />
   </component>
