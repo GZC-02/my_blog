@@ -27,7 +27,7 @@ jobs:
      - name: Build Project
        run: |
          npm install
-         set NODE_OPTIONS=--openssl-legacy-provider && dumi build
+         set NODE_OPTIONS=--openssl-legacy-provider && npm run build
 
       # 部署到github
      - name: Deploy to Github
