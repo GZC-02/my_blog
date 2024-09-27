@@ -6,8 +6,8 @@ export default defineConfig({
   themeConfig: {
     name: 'JAVA',
     socialLinks: {
-      github: 'https://github.com/java/JAVA',
-      yuque: 'https://www.yuque.com/yuqueyonghupqqdjr/gre6wb',
+      github: 'https://github.com/GZC-02/my_blog',
+      // yuque: 'https://www.yuque.com/yuqueyonghupqqdjr/gre6wb',
     },
     nprogress: true,
     siteToken: {

@@ -7,7 +7,7 @@ import React from "react";
 export default () => (
   <DumiSiteProvider>
     <Flexbox padding={24}>
-      <Features openExternal={true} items={antdStyleItems} />
+      <Features items={antdStyleItems} />
     </Flexbox>
   </DumiSiteProvider>
 );

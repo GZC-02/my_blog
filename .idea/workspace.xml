@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772deb27-1af2-4a76-83b0-db1b2dd8ecbc" name="Changes" comment="" />
+    <list default="true" id="772deb27-1af2-4a76-83b0-db1b2dd8ecbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/Java/01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Java/02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/index.$tab-example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/repxToTransfer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dumirc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.dumirc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Java/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Java/00-base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/repxToTransfer.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,25 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/my_blog/docs/Java/OPP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;E:\\.development\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "18.20.3",
+    "javascript.nodejs.core.library.typings.version": "",
+    "last_opened_file_path": "E:/my_blog/docs/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "E:\\.development\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my_blog\docs\Java" />
       <recent name="E:\my_blog\docs\Java\OPP" />
       <recent name="E:\my_blog\docs\Java\base" />
     </key>
@@ -105,7 +121,8 @@
       <option name="presentableId" value="Default" />
       <updated>1727406396405</updated>
       <workItem from="1727406397690" duration="2935000" />
-      <workItem from="1727421647985" duration="10833000" />
+      <workItem from="1727421647985" duration="12857000" />
+      <workItem from="1727446931981" duration="6196000" />
     </task>
     <servers />
   </component>
